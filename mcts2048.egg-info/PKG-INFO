@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mcts2048
+Version: 0.0.1
+Summary: mcts2048 is a collection of algorithms for the 2048 game.
+Home-page: 
+Author: Andreas Faust
+Author-email: andreas.s.faust@gmail.com
+Provides-Extra: test
+Requires-Dist: pytest; extra == "test"

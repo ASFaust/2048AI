@@ -1,0 +1,9 @@
+setup.py
+mcts2048.egg-info/PKG-INFO
+mcts2048.egg-info/SOURCES.txt
+mcts2048.egg-info/dependency_links.txt
+mcts2048.egg-info/not-zip-safe
+mcts2048.egg-info/requires.txt
+mcts2048.egg-info/top_level.txt
+src/game.cpp
+src/pybind.cpp
